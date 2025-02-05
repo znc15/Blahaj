@@ -1,0 +1,18 @@
+{
+    "itemGroup.blahaj": "IKEA 玩偶",
+    
+    "item.blahaj.blue_shark": "蓝色鲨鱼玩偶",
+    "item.blahaj.blue_shark.tooltip": "又名 Blahaj",
+    "item.blahaj.gray_shark": "灰色鲨鱼玩偶",
+    "item.blahaj.gray_shark.tooltip": "又名 Klappar Haj",
+    "item.blahaj.blue_whale": "蓝色鲸鱼玩偶",
+    "item.blahaj.blue_whale.tooltip": "又名 Blavingad，可以存储物品",
+    "item.blahaj.brown_bear": "棕熊玩偶",
+    "item.blahaj.brown_bear.tooltip": "又名 Djungelskog",
+    "item.blahaj.bread": "面包抱枕",
+    "tooltip.blahaj.owner.craft": "由 %s 制作",
+    "tooltip.blahaj.owner.rename": "%s 的 %s",
+    "block.blahaj.blue_shark": "蓝色鲨鱼",
+    "block.blahaj.gray_shark": "灰色鲨鱼",
+    "block.blahaj.brown_bear": "棕熊"
+} 

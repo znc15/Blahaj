@@ -1,0 +1,15 @@
+{
+	"item.blahaj.blue_shark": "Mjukleksak Haj",
+	"item.blahaj.blue_shark.tooltip": "alias Blåhaj",
+	"item.blahaj.gray_shark": "Mjukleksak Gråhaj",
+	"item.blahaj.gray_shark.tooltip": "alias Klappar Haj",
+	"item.blahaj.blue_whale": "Mjukleksak Blåval",
+	"item.blahaj.blue_whale.tooltip": "alias Blåvingad. Kan innehålla en hög med föremål",
+	"item.blahaj.bread": "Brödkudde",
+	"tooltip.blahaj.owner.craft": "Skapad av %s",
+	"tooltip.blahaj.owner.rename": "%s av %s",
+	"modmenu.blahaj.users_manual": "Bruksanvisning och Teknisk Referens (endast på engelska)",
+	"block.blahaj.blue_shark": "Blåhaj",
+	"block.blahaj.gray_shark": "Gråhaj",
+	"block.blahaj.brown_bear": "Brunbjörn"
+}
