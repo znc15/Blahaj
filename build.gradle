@@ -6,7 +6,7 @@ plugins {
 }
 
 archivesBaseName = project.archives_base_name
-version = file('../version.txt').text.trim()
+version = file('version.txt').text.trim()
 group = project.maven_group
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)

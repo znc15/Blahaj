@@ -1,11 +1,13 @@
 modLoader="javafml"
 loaderVersion="[47,)"
 license="MIT"
+issueTrackerURL="https://github.com/znc15/Blahaj"
 
 [[mods]]
 modId="blahaj"
 version="1.0.0"
 displayName="Blahaj!"
+authors="LittleSheep"
 description='''
 Adds IKEA plushies to Minecraft!
 '''
